@@ -127,3 +127,15 @@
         User git => mặc định, ko chỉnh sửa 
         IdentityFile ~/.ssh/nhannm/id_rsa => file private key pair với public key đã đăng ký
     ```
+
+
+
+
+#### Note
+
+- Create branch : git checkout -b [ten nhanh]
+- Switch branch : git checkout [ten branch]
+- Delete branch : git branch -d [ten nhanh]
+- View remote name: git remote -v
+- Delete remote branch: git push [remote name] :[branch delete]
+
